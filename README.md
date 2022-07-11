@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=erdogantrpc&show_icons=true&theme=dracula">
+
+## Hi
+I am Erdoğan. iOS Developer @Dogus_Tech
+
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdogan-turpcu)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erdogantrpc@gmail.com)](mailto:erdogantrpc@gmail.com)
