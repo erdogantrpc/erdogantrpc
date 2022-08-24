@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=erdogantrpc&show_icons=true&theme=dracula">
 -->
-I am Erdoğan. iOS Developer @Dogus_Tech
+I am Erdoğan. iOS Developer
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdogan-turpcu)
